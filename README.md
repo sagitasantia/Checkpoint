@@ -1,2 +1,1 @@
-## Klasifikasi Keanekaragaman Bahasa pada Kota New York
-# hhg
+# Klasifikasi Keanekaragaman Bahasa pada Kota New York
